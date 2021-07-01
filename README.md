@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :zap: I love programming and meeting new people 
+- 🌱 I’m addicted to learning and growing every day
+- :earth_africa: There is a community that I am a member of and where we organize various events.
+-  - :speaker: [DEVELOOP](https://www.twitch.tv/develooptr)
+-  💬 Don't forget to follow my blog which will be published soon.
+-  -👨‍💻 [My Site](http://digitalemre.com/)
+- 📫 How to find me: 
+  - :bulb: [My Site](http://digitalemre.com/)
+  - :pencil2: [Twitter](https://twitter.com/emreyilmaz_dev)
+  - :office: [LinkedIn](https://www.linkedin.com/in/emreyilmazinfo/)
+  
