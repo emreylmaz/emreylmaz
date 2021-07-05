@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: There is a community that I am a member of and where we organize various events.
 -  - :speaker: [DEVELOOP](https://www.twitch.tv/develooptr)
+-  - :speaker: [DEVELOOP TWITTER](https://twitter.com/deve_loop)
+-  - :speaker: [DEVELOOP Instagram](https://www.instagram.com/deve_loop/)
 -  💬 Don't forget to follow my blog which will be published soon.
 -  -👨‍💻 [My Site](http://digitalemre.com/)
 - 📫 How to find me: 
